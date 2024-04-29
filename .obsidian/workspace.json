@@ -23,9 +23,11 @@
             "id": "fb74fb9a1233fbf8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "我跟旭总的面试对谈.pdf"
+                "file": "我跟旭总的面试对谈.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "我跟旭总的面试对谈.pdf",
+                "file": "我跟旭总的面试对谈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "我跟旭总的面试对谈.pdf",
+                "file": "我跟旭总的面试对谈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "我跟旭总的面试对谈.pdf"
+                "file": "我跟旭总的面试对谈.md"
               }
             }
           }
@@ -159,9 +161,9 @@
   },
   "active": "fb74fb9a1233fbf8",
   "lastOpenFiles": [
+    "我跟旭总的面试对谈.pdf",
     "README.md",
     "Welcome.md",
-    "我跟旭总的面试对谈.pdf",
     "我跟旭总的面试对谈.md"
   ]
 }
